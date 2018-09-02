@@ -1,16 +1,3 @@
---- 
-title: "Introduction to Statistical Methodology"
-author: " "
-date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
-output: bookdown::gitbook
-documentclass: book
-bibliography:  
-biblio-style: apalike
-link-citations: yes
-github-repo:  
-description: ""
----
 
 # Preface {-}
 
